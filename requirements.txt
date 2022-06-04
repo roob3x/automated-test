@@ -1,0 +1,5 @@
+behave==1.2.6
+selenium==3.141.0
+allure-behave==2.9.45
+PyHamcrest==2.0.2
+Appium-Python-Client==1.0.2
