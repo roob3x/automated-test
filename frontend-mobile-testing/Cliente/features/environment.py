@@ -2,7 +2,7 @@ from common.capabilities import Enviroment
 
 
 def before_scenario(context,scenario):
-    Enviroment.set_capabilities(context,scenario)
+    Enviroment.set_capabilities(context)
 
 
 def after_scenario(context,scenario):

@@ -9,7 +9,7 @@ path_apk = PARENT_PATH
 path_apk = path_apk + "/Cliente/common/cadastro_clientes_teste.apk"
 
 class Enviroment:
-    def set_capabilities(context,scenario):
+    def set_capabilities(context):
         desired_caps = {}
         desired_caps['platformName'] = 'Android'
         desired_caps['deviceName'] = 'Android Emulator'
