@@ -20,3 +20,7 @@ class HomePage(BasePage):
     
     def click_on_new_register_btn(self):
         super().click(self.NEW_REGISTER_BTN)
+
+
+    def click_on_exportar_dados(self):
+        super().click(self.EXPORTAR_DADOS_BTN)

@@ -3,7 +3,7 @@ Funcionalidade: Cadastro Cliente
 
 
     @cadastro @sucesso @sanity
-    Cenário: CADASTRO_001 -  Verifique que é possível cadastrar um novo cliente
+    Cenário: Verifique que é possível cadastrar um novo cliente
         Dado   Que estou na home do app
         E      Clico no menu
         Quando Clico em cadastrar novo

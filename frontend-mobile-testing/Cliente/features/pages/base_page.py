@@ -9,8 +9,8 @@ class BasePage:
         self.driver = driver
 
 
-    def wait_for(self,condition,seconds = 10):
-        return WebDriverWait(self.driver, seconds).until(condition)
+    def wait_for(self,condition,sec = 20):
+        return WebDriverWait(self.driver, sec).until(condition)
     
 
     def click(self, locator):
