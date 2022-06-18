@@ -97,6 +97,6 @@ Python ✔
 
 ## EXECUCAO DE TODOS OS TESTES COM REPORT
     1- Abra terminal
-    2- Dentro da pasta 'frontend-mobile-testing', execute comando 'bash runTests.sh'
+    2- Dentro da pasta 'frontend-mobile-testing/Android', execute comando 'bash runTests.sh'
     3- Para ver o relatorio estara disponivel na pasta ExecutionReports apos a execucao da mesma.
     Obs: Cada vez que for executado o teste, o relatorio anterior é excluido para que seja gerado o relatorio atualizado da execucao atual

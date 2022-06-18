@@ -1,8 +1,8 @@
-from common.capabilities import Enviroment
+from common_android.capabilities import Enviroment
 
 
 def before_scenario(context,scenario):
-    Enviroment.set_capabilities(context)
+    Enviroment.set_capabilities(context,scenario)
 
 
 def after_scenario(context,scenario):

@@ -1,6 +1,6 @@
 from behave import *
 from pages.cadastrar_page import CadastroPage
-from common.utils import *
+from common_android.utils import *
 
 
 @when('Preencho os dados do cliente')
