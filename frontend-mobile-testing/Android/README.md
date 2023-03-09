@@ -66,7 +66,7 @@ Configuração de variáveis de ambiente ✔
 Python ✔
 
 ## CONFIGURANDO CAPABILITIES APPIUM
-    Acessar o appiu e clicar em start Server
+    Acessar o appium e clicar em start Server
 
     Clicar na lupa.(ao passar o mouse sera exibido "Start Inspector Session")
 
@@ -78,7 +78,7 @@ Python ✔
 
     AutomationName(text): uiautomator2
 
-    appPackage(text): br.com.dudstecnologia.cadastroclientes
+    appPackage(text): br.com.dudstecnologia.cadastrodeclientes
 
     appActivity(text): br.com.dudstecnologia.cadastrodeclientes.MainClientes
 

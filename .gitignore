@@ -1,3 +1,10 @@
 venv
 __pycache__
 ExecutionReports
+.DS_Store
+../../.DS_Store
+../../.idea/
+../Android/.DS_Store
+../Android/Cliente/.DS_Store
+.DS_Store
+.idea

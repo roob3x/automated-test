@@ -15,7 +15,6 @@ class Enviroment:
         BROWSERSTACK_CUSTOM_ID_ANDROID = 'teste'
 
         if context.config.userdata['type_execution'].upper() in 'BROWSERSTACK':
-            print ("entrei aqui")
             directory = os.path.abs("..")
             os.system(directory+'/browserstack_local.sh')
             desired_caps['browserstack.user'] = 'inserirlogin'
